@@ -7,5 +7,8 @@ This is example to show different parts of the git repository and various comman
 As stated above, the main purpose is to provide simple examples for Git trianing and demoi
 s 
 ## Deployment
-This is a simple web project, deployment can be on any web server or even local file system.
+This is a simple web project, deployment can be on any web server or even local file system
+.
 ## How to contribute
+### Copyright
+Git.Training.
