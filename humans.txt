@@ -7,7 +7,7 @@ i# humanstxt.org/
 
 # THANKS
 
-    <name>
+    Thanks to all my students
 
 # TECHNOLOGY COLOPHON
 
