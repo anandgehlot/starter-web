@@ -19,4 +19,4 @@ please fork this repository and then issue pull request for review.
 Git.Training.
 All rights reserved. 
 
-
+stash example
