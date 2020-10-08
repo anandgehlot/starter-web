@@ -8,7 +8,7 @@ i# humanstxt.org/
 # THANKS
 
     Thanks to all my students
-
+    please add a review if you like this course
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
